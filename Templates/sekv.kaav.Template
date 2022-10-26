@@ -1,0 +1,16 @@
+Browser -> Server: 
+Server --> Browser:
+Browser -> Server: site
+Server --> Browser:
+Browser -> Server: 
+
+Note over Browser:
+
+end note
+
+Browser -> Server:  
+Server --> Browser:
+
+note over Browser:
+
+end note 
